@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "気軽にMorse信号", "気軽にMorse信号\気軽にMorse信号.csproj", "{EDEA0FD8-A8DB-409C-AA07-9F07C10347A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "気軽にMorse信号.Droid", "Droid\気軽にMorse信号.Droid.csproj", "{EEA565E9-33D6-4829-96EB-8343CEAA0742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "気軽にMorse信号.UITests", "UITests\気軽にMorse信号.UITests.csproj", "{08B5C365-A1CE-4BE4-8093-0F2FD6D895F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B5C365-A1CE-4BE4-8093-0F2FD6D895F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B5C365-A1CE-4BE4-8093-0F2FD6D895F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B5C365-A1CE-4BE4-8093-0F2FD6D895F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B5C365-A1CE-4BE4-8093-0F2FD6D895F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDEA0FD8-A8DB-409C-AA07-9F07C10347A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEA0FD8-A8DB-409C-AA07-9F07C10347A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEA0FD8-A8DB-409C-AA07-9F07C10347A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEA0FD8-A8DB-409C-AA07-9F07C10347A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA565E9-33D6-4829-96EB-8343CEAA0742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA565E9-33D6-4829-96EB-8343CEAA0742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA565E9-33D6-4829-96EB-8343CEAA0742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA565E9-33D6-4829-96EB-8343CEAA0742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
